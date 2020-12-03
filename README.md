@@ -1,3 +1,5 @@
+This fork has been merged with the original project: https://github.com/damiafuentes/DJITelloPy/commit/7019d11e23c8085ea28804f5ce0ce600d0dda394
+
 # DJITelloPy
 DJI Tello drone python interface using the official [Tello SDK](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello%20SDK%20Documentation%20EN_1.3.pdf) and [Tello EDU SDK](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf). This library has the following features:
 
